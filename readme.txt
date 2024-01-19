@@ -12,7 +12,7 @@ lt12_l_es
 lt13_l_es	
 lt14_l_gat	
 lt15_l_gb	
-lt61_l_ab	
+lt61_l_ab	https://playground.babylonjs.com/#YIU90M#1297
 lt61_l_abk	
 lt62_l_ab	
 lt62_l_abk	
