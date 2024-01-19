@@ -1,6 +1,6 @@
 lt1_l_gb	https://playground.babylonjs.com/#YIU90M#1293
 lt3_l_gb	
-lt5_l_gb	
+lt5_l_gb	https://playground.babylonjs.com/#YIU90M#1296
 lt6_l_gbll	
 lt7_l_gb	
 lt8_l_gb	
